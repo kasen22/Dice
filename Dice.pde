@@ -29,7 +29,6 @@ void draw() {
     }
 }
 }
-    System.out.println(dieTotal);
      noStroke();
      fill(86,20,144);
      rect(300,570,150,40);
